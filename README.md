@@ -5,6 +5,7 @@ This project is mini-demo "Notebook" Api.
 - Freamwork: Moleculer
 - Api Gateway: Moleculer-web
 - ORM: Sequelize
+- Validator: Joi
 
 ---
 

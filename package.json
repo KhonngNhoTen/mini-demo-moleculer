@@ -1,0 +1,22 @@
+{
+  "name": "list-note-by-moleculer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "md5": "^2.3.0",
+    "moleculer": "^0.14.28",
+    "moleculer-web": "^0.10.5",
+    "pg": "^8.9.0",
+    "sequelize": "^6.28.0"
+  }
+}
